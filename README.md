@@ -2,6 +2,8 @@
 1 git repo
 Author - Gauri sujit sangare
 <br>
-<p>
 a BE. automation and Robotics 
-A engineere in AR </p>
+<br>
+A engineere in AR
+src=https://i.pinimg.com/736x/79/b6/46/79b646aaf79155536218fb3e5ccc02ee.jpg
+
