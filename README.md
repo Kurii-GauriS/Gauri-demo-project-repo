@@ -7,5 +7,5 @@ a BE. automation and Robotics
 A engineere in AR
 <br>
 FAV SKzoo
-<img src="(https://i.pinimg.com/736x/79/b6/46/79b646aaf79155536218fb3e5ccc02ee.jpg)" alt="Example image" width="400" height="300">
+<br>
 <img width="736" height="1636" alt="image" src="https://github.com/user-attachments/assets/481d2461-0147-4763-9d1e-bc8b6caa5691" />
